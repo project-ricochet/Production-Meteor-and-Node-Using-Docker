@@ -33,7 +33,7 @@ To get comfortable with Docker, it’s important to break down your server needs
 
 *First Two Blogs in Series* _Subscribe or watch for future updates_
 
- <a href = "https://projectricochet.com/blog/production-meteor-and-node-using-docker-part-i#">*Production Meteor and Node Using Docker, Part I*</a>
+ [Production Meteor and Node Using Docker, Part I](https://projectricochet.com/blog/production-meteor-and-node-using-docker-part-i)
  
- <a href = "https://projectricochet.com/blog/production-meteor-and-node-using-docker-part-ii#">*Production Meteor and Node Using Docker, Part II*</a>
-
+  [Production Meteor and Node Using Docker, Part II](https://projectricochet.com/blog/production-meteor-and-node-using-docker-part-ii)
+  
