@@ -1,5 +1,4 @@
-# Production-Meteor-and-Node-Using-Docker
-*Production Meteor and Node Using Docker*
+# Production Meteor and Node Using Docker
 
 Thursday, March 17, 2016
 Within the field of NetOps, there are many technology channels moving quickly and independently. It’s tricky for a small team to assemble a project using all of the latest technologies in a time frame that won’t crack your spirit.
@@ -31,10 +30,12 @@ Node (at the heart of Meteor’s server code) is quite a joy to deploy with Dock
 
 To get comfortable with Docker, it’s important to break down your server needs into small self-contained units (containers!), with each container driving a single process (like Node, or Mongo). In a typical Meteor (or Node) app, your setup will include load balancing, a Mongo replica set (or some other database), and one or more node processes to handle client requests. Here, we’ll outline requirements for a container that will run Meteor/Node. We’ll tackle load balancing and MongoDB in later posts.
 
-#*First Two Blogs in Series* 
-##_Subscribe or watch for future updates_
+*First Two Blogs in Series*
 
-[Production Meteor and Node Using Docker, Part I] (https://projectricochet.com/blog/production-meteor-and-node-using-docker-part-i#)
-[Production Meteor and Node Using Docker, Part II] (https://projectricochet.com/blog/production-meteor-and-node-using-docker-part-ii#) 
+_Subscribe or watch for future updates_
+
+[Production Meteor and Node Using Docker, Part I](https://projectricochet.com/blog/production-meteor-and-node-using-docker-part-i#)
+
+[Production Meteor and Node Using Docker, Part II](https://projectricochet.com/blog/production-meteor-and-node-using-docker-part-ii#) 
 
 
