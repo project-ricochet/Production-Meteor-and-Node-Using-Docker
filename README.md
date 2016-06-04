@@ -30,7 +30,7 @@ Node (at the heart of Meteor’s server code) is quite a joy to deploy with Dock
 
 To get comfortable with Docker, it’s important to break down your server needs into small self-contained units (containers!), with each container driving a single process (like Node, or Mongo). In a typical Meteor (or Node) app, your setup will include load balancing, a Mongo replica set (or some other database), and one or more node processes to handle client requests. Here, we’ll outline requirements for a container that will run Meteor/Node. We’ll tackle load balancing and MongoDB in later posts.
 
-*First Two Blogs in Series*
+#First Two Blogs in Series
 
 _Subscribe or watch for future updates_
 
